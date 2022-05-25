@@ -1,2 +1,2 @@
 # First-repository
-Furst project by ecko
+First project by ecko
